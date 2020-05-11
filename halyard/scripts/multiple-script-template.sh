@@ -1,0 +1,3 @@
+${SHEBANG}
+
+${SCRIPT_CONTENT}
